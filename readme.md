@@ -1,6 +1,6 @@
 # Webpack & Tailwind Starter
 
-Build apps with Webpack and use Tailwind CSS
+"Tailwind CSS Component" is a GitHub repository that contains a collection of custom UI components built with the popular CSS framework, Tailwind CSS. The repository serves as a hub for developers to access and use various pre-designed components to enhance the look and functionality of their projects. All the components in this repo are easy to use and customizable to fit your specific needs.
 
 ## Usage
 
@@ -21,6 +21,3 @@ npm run build
 ```
 npm run dev
 ```
-
-### Gist File With Steps To Create This
-https://gist.github.com/bradtraversy/1c93938c1fe4f10d1e5b0532ae22e16a
